@@ -1,4 +1,4 @@
-Student name
-student suc code
-student course
-student roll no
+Student name:kowshik
+student suc code:2352320270
+student course:BCA
+student roll no:55
